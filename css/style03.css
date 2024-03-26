@@ -1,0 +1,31 @@
+header{
+    border: solid;
+    height: 150px;
+    background-color: rgb(78, 222, 109);
+    margin-bottom: 15px;
+}
+main{
+    display: flex;
+    border: solid;
+    height: 150px;
+    background-color: rgb(149, 21, 154);
+    margin-bottom: 15px;
+    
+}
+.main-sect1{
+    border: solid;
+    background-color: aqua;
+    flex-basis: 50%;
+}
+.main-sect2{
+    border: solid;
+    background-color: blue;
+    flex-basis: 50%;
+}
+
+footer{
+    border: solid;
+    height: 150px;
+    background-color: rgb(3, 9, 13);
+    margin-bottom: 15px;
+}

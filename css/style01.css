@@ -1,0 +1,15 @@
+header{
+    border: solid;
+    height: 150px;
+    background-color: rgb(212, 201, 53);
+}
+main{
+    border: solid;
+    height: 150px;
+    background-color: rgb(226, 225, 225);
+}
+footer{
+    border: solid;
+    height: 150px;
+    background-color: rgb(95, 166, 220);
+}

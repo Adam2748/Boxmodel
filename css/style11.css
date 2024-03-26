@@ -1,0 +1,33 @@
+
+
+header{
+    border: solid;
+    height: 200px;
+    background-color: rgb(78, 222, 109);
+    margin-bottom: 15px; 
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.main-sect2{
+    border: solid;
+    height: 200px;
+    background-color: rgb(149, 21, 154);
+    margin-bottom: 15px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+}
+    
+footer{
+    border: solid;
+    height: 200px;
+    background-color: rgb(3, 9, 13);
+    margin-bottom: 15px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    
+}
