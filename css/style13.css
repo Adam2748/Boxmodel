@@ -1,4 +1,5 @@
 
+
 body {
     display: flex;
     justify-content: space-between;
@@ -17,7 +18,7 @@ body {
     justify-content: space-between;
     flex-direction: column;
     height: 900px;
-    width: 70%;
+    width: 50%;
 }
 
 .box1, .box2{
@@ -32,8 +33,14 @@ body {
 .box2 {
     background-color: gray;
 }
-    
 
+.boxvertical2 { 
+    background-color: hotpink;
+    flex-direction: row;
+    height: 900px;
+    width: 20%;
+    border: 2px solid;
+}
 
 
    
