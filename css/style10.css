@@ -112,6 +112,7 @@ footer{
 footer nav{
 display: flex;
 flex-direction: row;
+justify-content: flex-end;
 
 }
 .AE{
@@ -156,3 +157,14 @@ flex-direction: row;
     justify-content: space-around;
     
 }
+
+.AA{
+    flex-basis: 50%;
+    height: 100px;
+    margin-right: 80px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    margin-left: 100px;
+    width: 50px;
+    text-align: center;
+    justify-content: space-around;}

@@ -1,18 +1,22 @@
 header{
     border: solid;
-    height: 150px;
+    height: 200px;
     background-color: rgb(78, 222, 109);
-    margin-bottom: 15px;
+    flex-basis: 45%;
+    display: flex;
+    margin: 15px;
 }
 main{
     border: solid;
-    height: 150px;
+    height: 200px;
     background-color: rgb(149, 21, 154);
-    margin-bottom: 15px;
+    flex-basis: 45%;
+    margin: 15px;
 }
 footer{
     border: solid;
-    height: 150px;
+    height: 200px;
     background-color: rgb(3, 9, 13);
-    margin-bottom: 15px;
+    flex-basis: 45;
+    margin: 15px;
 }

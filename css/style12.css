@@ -1,0 +1,58 @@
+
+
+    
+    
+    .A1{
+        border: solid;
+        background-color: aqua;
+        flex-basis: 45%;
+        height: 400px;
+        width: 300px;
+        margin: 15px;
+        
+    }
+
+
+    
+
+header{border: solid;
+    background-color: black;
+    flex-basis: 45%;
+    height: 600px;
+    margin: 0px;  
+    display: flex;
+    align-self: stretch;
+}
+
+
+
+    .A6{
+
+        border: solid;
+        flex-basis: 45%;
+        background-color: rgb(143, 199, 30);
+        height: 300px;
+        margin: 15px;}
+.H1{
+    border: solid;
+        flex-basis: 45%;
+        background-color: rgb(143, 199, 30);
+        height: 300px;
+        margin: 15px;}
+
+
+main{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+nav{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}
+aside{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-end;
+}

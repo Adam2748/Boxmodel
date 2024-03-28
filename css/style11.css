@@ -1,33 +1,30 @@
 
-
-header{
-    border: solid;
-    height: 200px;
-    background-color: rgb(78, 222, 109);
-    margin-bottom: 15px; 
-    width: 100px;
+nav{
     display: flex;
-    flex-direction: column;
+    align-items: stretch;
 }
 
+.A1{
 
-.main-sect2{
     border: solid;
-    height: 200px;
-    background-color: rgb(149, 21, 154);
-    margin-bottom: 15px;
-    width: 100px;
-    display: flex;
-    flex-direction: column;
+    flex-basis: 45%;
+    background-color: blue;
+    height: 600px;
+    margin: 15px;
+    
 }
-    
-footer{
+.A2{
     border: solid;
-    height: 200px;
-    background-color: rgb(3, 9, 13);
-    margin-bottom: 15px;
-    width: 100px;
-    display: flex;
-    flex-direction: column;
+    flex-basis: 45%;
+    height: 600px;
+    background-color: rgb(222, 62, 80);
+    margin: 15px;
     
+}
+.A3{
+    border: solid;
+    flex-basis: 45%;
+    background-color: rgb(15, 207, 121);
+    height: 600px;
+    margin: 15px;
 }
