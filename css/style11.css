@@ -6,25 +6,25 @@ nav{
 
 .A1{
 
-    border: solid;
+    
     flex-basis: 45%;
     background-color: blue;
-    height: 600px;
+    height: 700px;
     margin: 15px;
     
 }
 .A2{
-    border: solid;
+    
     flex-basis: 45%;
-    height: 600px;
+    height: 700px;
     background-color: rgb(222, 62, 80);
     margin: 15px;
     
 }
 .A3{
-    border: solid;
+    
     flex-basis: 45%;
     background-color: rgb(15, 207, 121);
-    height: 600px;
+    height: 700px;
     margin: 15px;
 }

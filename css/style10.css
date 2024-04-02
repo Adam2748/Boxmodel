@@ -71,15 +71,19 @@ header{
 }
 
 .A5{
-border: solid;
-border-radius: 50px;
-background-color: chartreuse;
-height: 20px;
-width: 20px;
-margin-bottom: 20px;
-display: flexbox;
-align-items: end;
+    border: 1px solid black;
+    width: 50px;
+    border-radius: 50%;
+    background-color: aqua;
+    width: 40px;
+    height: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+nav{
 
+    justify-content: flex-end;
 }
 
 main{
@@ -113,6 +117,7 @@ footer nav{
 display: flex;
 flex-direction: row;
 justify-content: flex-end;
+text-align: center;
 
 }
 .AE{
